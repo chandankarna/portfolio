@@ -1,6 +1,6 @@
 # Chandan Karna - Portfolio
 
-![Chandan Karna]([https://ck.lacspace.com](https://drive.google.com/file/d/1xycu2a5SgmOtsrrF0XSEfkEHKs98HksW/view?usp=sharing))
+![Chandan Karna](https://drive.google.com/file/d/1xycu2a5SgmOtsrrF0XSEfkEHKs98HksW/view))
 
 Hello! 👋 I'm Chandan Karna, a dedicated Software Engineer specializing in frontend development. I have a passion for creating exceptional web and mobile applications that captivate users.
 
